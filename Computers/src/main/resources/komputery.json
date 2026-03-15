@@ -1,0 +1,17 @@
+[
+  {
+    "name": "ACER Aspire",
+    "accountingDate": "2026-01-05",
+    "costUsd": 345
+  },
+  {
+    "name": "DELL Latitude",
+    "accountingDate": "2026-01-11",
+    "costUsd": 543
+  },
+  {
+    "name": "HP Victus",
+    "accountingDate": "2026-01-19",
+    "costUsd": 346
+  }
+]

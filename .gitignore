@@ -1,0 +1,51 @@
+# Maven 
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+
+# Logs 
+*.log
+logs/
+
+# IntelliJ 
+.idea/
+*.iml
+
+# Eclipse 
+.project
+.classpath
+.settings/
+
+# VS Code 
+.vscode/
+
+# OS 
+.DS_Store
+Thumbs.db
+
+# Database 
+*.db
+*.sqlite
+
+# Build 
+build/
+
+# Dependency directories
+node_modules/
+
+# Angular cache
+.angular/
+
+# Build output
+dist/
+
+# Temp 
+*.tmp
+*.swp
+
+# Test 
+surefire-reports/
